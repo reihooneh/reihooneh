@@ -150,7 +150,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 
 | Project | What it does | Tech |
 |---|---|---|
-| _Coming soon_ | First weekly flagship project | — |
+| 🛡️ [**Aegis Health**](https://github.com/reihooneh/aegis-health) · [live](https://sparkly-torte-d2604e.netlify.app/) | Private, explainable early-warning health check-ins with on-device AES-256 encryption. Hackathon project, rebuilt as a working product | JavaScript, Web Crypto, HTML/CSS |
 | _Coming soon_ | | — |
 | _Coming soon_ | | — |
 
