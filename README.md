@@ -5,23 +5,40 @@
   Software • Data • Cybersecurity • Robotics • Games • AI • and whatever's next
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Sydney,_Australia-555?style=flat" alt="Sydney, Australia"/>
+  <img src="https://img.shields.io/badge/🗣️_Speaks-6_languages-8A2BE2?style=flat" alt="Speaks 6 languages"/>
+  <img src="https://img.shields.io/badge/🎓_Certifications-20%2B-2E8B57?style=flat" alt="20+ certifications"/>
+</p>
+
 ---
 
 ## 🧬 About me
 
-I'm studying a **Bachelor of Computer Science** alongside a **Bachelor of Health/Medicine**. I'm endlessly curious, so I build across everything: web apps, data tools, security projects, games, systems programming, robotics and more, and I love picking up new languages along the way.
+I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endlessly curious. I build across everything: web apps, data tools, security projects, games, systems programming, robotics and more, picking up new languages along the way.
 
-- 🔭 **Currently building:** a new flagship project every week, each exploring a different area of tech
-- 🌍 **Exploring:** a different language or field with every project
-- 🌱 **Currently learning:** full-stack development, data engineering, and secure system design
-- 🧪 **Daily practice:** small projects in a different language each day ➜ [`daily-challenges`](https://github.com/reihooneh/daily-challenges)
-- 🤝 **Open to:** internships, graduate roles, research projects, and open-source collaboration
+- 🔭 **Building:** a new flagship project every week, each exploring a different area of tech
+- 🧪 **Daily practice:** a small project in a different language every day ➜ [`daily-challenges`](https://github.com/reihooneh/daily-challenges)
+- 🤖 **Fascinated by:** medical micro-robotics, accessible design, and secure systems
+- ♿ **Care about:** inclusive tech; I've built an educational game designed for colour-blind players
+- 🤝 **Open to:** internships, research projects, and open-source collaboration
+- 📫 **Reach me:** reihaneh26686@gmail.com
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Winner:** Wisetech Global Programming Competition (High Distinction)
+- 🤖 **10th internationally** out of 100+ teams in the URC robotics competition
+- 🔐 **5+ Capture-the-Flag** cybersecurity challenges: network forensics, cryptography, web exploitation
+- 📚 **Co-author** of 2 published academic book chapters
+- 🧠 **1st place:** national Science Mystery competition
 
 ---
 
 ## 🛠️ Tech I work with
 
-**Languages**
+**Languages**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,16 +48,22 @@ I'm studying a **Bachelor of Computer Science** alongside a **Bachelor of Health
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Data & Analytics**
+**Data & Analytics**<br/>
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![NVivo](https://img.shields.io/badge/NVivo-00A3E0?style=flat&logoColor=white)
 
-**Engineering & Tools**
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat&logo=autodesk&logoColor=white)
+**Security, Robotics & Engineering**<br/>
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
 ![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=flat&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Design**<br/>
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
@@ -54,14 +77,19 @@ I'm studying a **Bachelor of Computer Science** alongside a **Bachelor of Health
 
 ---
 
-## 💡 What I bring
+## 📜 Learning & certifications
 
-- **Range:** comfortable jumping between languages, fields and problem types
-- **Health + tech thinking:** I understand both the code and the real-world contexts it's used in
-- **Data skills:** cleaning, analysing, and visualising real-world datasets, including qualitative research (NVivo)
-- **Security mindset:** CTF experience and a focus on privacy for sensitive data
-- **Hardware + software:** robotics, microcontrollers, and CAD prototyping
-- **Communication:** technical writing, research reporting, and public speaking
+- **Harvard CS50x** series: computer science foundations
+- **Fortinet:** Certified Associate & Fundamentals in Cybersecurity
+- **Google:** Analytics, Ads, Tag Manager, Data Studio
+- **Stanford:** health science short courses
+
+---
+
+## 🌏 Languages I speak
+
+English • Persian/Farsi • Dari • Azerbaijani • Turkish • Arabic<br/>
+<sub>Currently learning: Korean • Urdu • Japanese</sub>
 
 ---
 
