@@ -17,7 +17,7 @@
 I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endlessly curious. I build across everything: web apps, data tools, security projects, games, systems programming, robotics and more, picking up new languages along the way.
 
 - 🔭 **Building:** a new flagship project every week, each exploring a different area of tech
-- 🧪 **Daily practice:** a small project in a different language every day ➜ [`daily-challenges`](https://github.com/reihooneh/daily-challenges)
+- 🧪 **Daily practice:** two small projects every day, one in the morning and one in the evening, each in a different language and field ➜ [`daily-challenges`](https://github.com/reihooneh/daily-challenges)
 - 🤖 **Fascinated by:** medical micro-robotics, accessible design, and secure systems
 - ♿ **Care about:** inclusive tech; I've built an educational game designed for colour-blind players
 - 🤝 **Open to:** internships, research projects, and open-source collaboration
