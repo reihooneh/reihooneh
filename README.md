@@ -151,7 +151,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 | Project | What it does | Tech |
 |---|---|---|
 | 🛡️ [**Aegis Health**](https://github.com/reihooneh/aegis-health) · [live](https://sparkly-torte-d2604e.netlify.app/) | Private, explainable early-warning health check-ins with on-device AES-256 encryption. Hackathon project, rebuilt as a working product | JavaScript, Web Crypto, HTML/CSS |
-| _Coming soon_ | | — |
+| 🎓 [**Pick Two**](https://github.com/reihooneh/pick-two) | Timetable planner that explains *why* your wishes can't all fit and finds the smallest thing to give up. One solver, compiled to a CLI and to the browser | Go, WebAssembly, JavaScript |
 | _Coming soon_ | | — |
 
 ---
