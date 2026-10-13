@@ -67,6 +67,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
 </p>
 
 ### 📊 Data & Analytics
@@ -151,6 +152,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 | Project | What it does | Tech |
 |---|---|---|
 | 🛡️ [**Aegis Health**](https://github.com/reihooneh/aegis-health) · [live](https://sparkly-torte-d2604e.netlify.app/) | Private, explainable early-warning health check-ins with on-device AES-256 encryption. Hackathon project, rebuilt as a working product | JavaScript, Web Crypto, HTML/CSS |
+| 🔐 [**Inkvault**](https://github.com/reihooneh/inkvault) · [live](https://reihooneh.github.io/inkvault/) | Paper backups your phone can read: prints small secrets as a page of cells, locks them with a passphrase, and reads them back with any camera through stains, tears and blur. Includes a live Damage lab | C (freestanding) → WebAssembly, Reed-Solomon, Web Crypto (AES-GCM) |
 | 🎓 [**Pick Two**](https://github.com/reihooneh/pick-two) · [live](https://reihooneh.github.io/pick-two/) | Timetable planner that explains *why* your wishes can't all fit and finds the smallest thing to give up. One solver, compiled to a CLI and to the browser | Go, WebAssembly, JavaScript |
 | 🩺 [**HiddenPressure**](https://github.com/reihooneh/hiddenpressure) · [live](https://reihooneh.github.io/hiddenpressure/) | Estimates where Western Sydney's ~325,000 adults with unreported high blood pressure live, then optimises where free check stations go, with a stress test and multilingual posters. Optimise 26 main entry | JavaScript, optimisation (maximum coverage), ABS Census data |
 | 💊 [**LabelLens**](https://github.com/reihooneh/labellens) · [live](https://reihooneh.github.io/labellens/) | Turns an English pharmacy label into checked instructions in 14 Western Sydney languages, with a picture schedule and audio, and refuses labels it can't translate safely. Optimise 26 project | JavaScript, Tesseract.js (on-device OCR), Playwright |
