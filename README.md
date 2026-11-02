@@ -18,6 +18,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 
 - 🔭 **Building:** a new flagship project every week, each exploring a different area of tech
 - 🧪 **Daily practice:** polished, fully tested projects, each in a different language and field ➜ [`daily-challenges`](https://github.com/reihooneh/daily-challenges)
+- 💼 **Job simulations:** real industry tasks for Commonwealth Bank, Deloitte and Datacom, with full code and write-ups ➜ [`job-simulations`](https://github.com/reihooneh/job-simulations)
 - 🤖 **Fascinated by:** medical micro-robotics, accessible design, and secure systems
 - ♿ **Care about:** inclusive tech; I've built an educational game designed for colour-blind players
 - 🤝 **Open to:** internships, research projects, and open-source collaboration
@@ -157,6 +158,7 @@ I'm studying **Computer Science** alongside **Health/Medicine**, and I'm endless
 | 🎵 [**Ringtrue**](https://github.com/reihooneh/ringtrue) · [live](https://reihooneh.github.io/ringtrue/) | Designs the arch under a marimba or xylophone bar so its overtones land on 1:4:10, then listens to the real bar through the microphone, calibrates to that board and plans the next cuts. 3D bar you can strike, playable two-octave set | C++20 → WebAssembly (no imports), finite elements, Levenberg-Marquardt, FFT, three.js |
 | 🩺 [**HiddenPressure**](https://github.com/reihooneh/hiddenpressure) · [live](https://reihooneh.github.io/hiddenpressure/) | Five-page site that estimates where Western Sydney's ~330,000 adults with undiagnosed high blood pressure live (ABS 2022), with a 3D council model, a check-station optimiser, stress test and multilingual posters. Optimise 26 main entry | JavaScript, three.js, optimisation (maximum coverage), ABS data |
 | 💊 [**LabelLens**](https://github.com/reihooneh/labellens) · [live](https://reihooneh.github.io/labellens/) | Turns an English pharmacy label into checked instructions in 14 Western Sydney languages, with a picture schedule and audio, and refuses labels it can't translate safely. Optimise 26 project | JavaScript, Tesseract.js (on-device OCR), Playwright |
+| 💼 [**Job Simulations**](https://github.com/reihooneh/job-simulations) | Industry job simulations with full code, write-ups and certificates: a full-stack goal icons feature for **Commonwealth Bank** (C#/.NET + React/Redux + tests), a down time dashboard and pay equality investigation for **Deloitte**, and AI-assisted debugging, a spec-driven Kudos app and the OrderBot agent design for **Datacom** | C#, .NET, MongoDB, React, Redux, TypeScript, Python, Flask, SQLite, xUnit, pytest |
 
 ---
 
